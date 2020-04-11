@@ -2,10 +2,10 @@
 
 CLI RSS client
 
-## Using
+## Using from virtual environment
 
-Start the application from a command line:
+Run the tool:
 
 ``` sh
-python app.py
+python cli.py
 ```
