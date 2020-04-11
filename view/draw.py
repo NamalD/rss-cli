@@ -4,7 +4,7 @@ SELECTED_ITEM_COLOUR = "\033[47;30m"
 DEFAULT_COLOUR = "\033[m"
 
 
-def draw_rss_items(rss_items, selected_item):
+def rss_items(rss_items, selected_item):
     for rss_item in rss_items:
         if rss_item == selected_item:
             draw_selected_item(rss_item)
