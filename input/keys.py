@@ -1,0 +1,2 @@
+UP_ARROW_KEY = "\00H"
+DOWN_ARROW_KEY = "\00P"

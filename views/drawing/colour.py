@@ -1,0 +1,3 @@
+
+SELECTED_ITEM = "\033[47;30m"
+DEFAULT = "\033[m"
